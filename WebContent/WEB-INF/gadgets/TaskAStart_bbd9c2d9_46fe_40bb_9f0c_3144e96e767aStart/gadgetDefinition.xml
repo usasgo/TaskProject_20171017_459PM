@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><gadgetDefinition>
+  <gadgetName>TaskAStart</gadgetName>
+  <gadgetTitle>TaskAStart</gadgetTitle>
+  <gadgetSettingsTitle>TaskAStart Settings</gadgetSettingsTitle>
+  <gadgetDescription>TaskAStart Description</gadgetDescription>
+  <gadgetID>bbd9c2d9_46fe_40bb_9f0c_3144e96e767aStart</gadgetID>
+  <gadgetModules>
+    <module>TaskAStart_bbd9c2d9_46fe_40bb_9f0c_3144e96e767aStart</module>
+  </gadgetModules>
+  <gadgetScripts>
+    <script>/TaskAStart/scripts/config.js</script>
+    <script>/TaskAStart/scripts/controller.js</script>
+    <script>/TaskAStart/scripts/custom.js</script>
+  </gadgetScripts>
+  <gadgetCSS>
+    <style>/TaskAStart/styles/gadget.css</style>
+  </gadgetCSS>
+  <gadgetIcon>/images/TaskAStart/default.png</gadgetIcon>
+  <gadgetGroup>TaskProject_20171017_459PM</gadgetGroup>
+  <gadgetType>AngularJS</gadgetType>
+  <gadgetURL>/business.console.gadgets#/TaskProject_20171017_459PM/TaskAStart</gadgetURL>
+  <parameters>
+    <servers/>
+    <events>
+      <publish/>
+      <subscribe/>
+    </events>
+    <parameter/>
+    <configParams type="dependencies">
+      <configParam>
+        <key>dependency_builder</key>
+        <value>builder</value>
+      </configParam>
+      <configParam>
+        <key>dependency_builder.components</key>
+        <value>builder.components</value>
+      </configParam>
+      <configParam>
+        <key>dependency_validator.rules</key>
+        <value>validator.rules</value>
+      </configParam>
+    </configParams>
+    <configParams type="framework">
+      <configParam>
+        <key>gadgetRootContext</key>
+        <value>/TaskAStart</value>
+      </configParam>
+      <configParam>
+        <key>applicationName</key>
+        <value>TaskProject_20171017_459PM</value>
+      </configParam>
+      <configParam>
+        <key>frameLess</key>
+        <value>false</value>
+      </configParam>
+    </configParams>
+  </parameters>
+</gadgetDefinition>

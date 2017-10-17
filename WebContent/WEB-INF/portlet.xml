@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<portlet-app xmlns="http://java.sun.com/xml/ns/portlet/portlet-app_1_0.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0" xsi:schemaLocation="http://java.sun.com/xml/ns/portlet/portlet-app_1_0.xsd http://java.sun.com/xml/ns/portlet/portlet-app_1_0.xsd ">
+    <user-attribute>
+        <name>user.default.time_zone</name>
+    </user-attribute>
+    <user-attribute>
+        <name>user.default.time.format</name>
+    </user-attribute>
+    <user-attribute>
+        <name>user.default.date.format</name>
+    </user-attribute>
+    <user-attribute>
+        <name>user.default.number.format</name>
+    </user-attribute>
+</portlet-app>

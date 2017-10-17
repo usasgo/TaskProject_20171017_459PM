@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CONFIG xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.webmethods.com/schema/xmlImport.xsd">
+  <include include="WEB-INF/tasks/bbd9c2d9-46fe-40bb-9f0c-3144e96e767a/taskDefinition.xml"/>
+</CONFIG>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<faces-config xmlns="http://xmlns.jcp.org/xml/ns/javaee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.2" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-facesconfig_2_2.xsd">
+    <application>
+        <message-bundle>caf.war.TaskProject_20171017_459PM.AppResources</message-bundle>
+        <locale-config>
+            <default-locale>en_US</default-locale>
+        </locale-config>
+    </application>
+</faces-config>
